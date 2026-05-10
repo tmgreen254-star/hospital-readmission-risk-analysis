@@ -30,10 +30,6 @@ The analysis includes:
 - Python
 - Pandas
 - Matplotlib
-## Visualizations
-### Hospital Readmission Outcomes
-### Readmission Rate by Age Group
-### Readmission Rate by Time in Hospital
 ## Key Observations
 This project explores whether readmission patterns vary by patient age and hospital stay length. The visualizations help show how readmission rates differ across patient groups and provide a starting point for thinking about hospital quality, patient risk, and healthcare resource use.
 ## Any Future Improvements
